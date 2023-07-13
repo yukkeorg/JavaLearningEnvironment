@@ -1,3 +1,12 @@
 {
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Training",
+            "database": "db.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
     "java.project.sourcePaths": []
 }
